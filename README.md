@@ -1,4 +1,4 @@
-#react-weather-app
+This is React Weather App.
 
 Technolies used in the project: 
 
