@@ -13,4 +13,5 @@ To start in terminal type and install:
 2. npm start - enjoy weather application
 
 Api for weather data was provided by Weather API https://www.weatherapi.com
+
 Api for cities was provided by Rapid API https://rapidapi.com
