@@ -9,9 +9,10 @@ Technolies used in the project:
 	5. Material UI
 
 To start in terminal type and install:
-
-	1. npm install - wait untill all packages will be installed
-	2. npm start - enjoy weather application
+	
+	1. For using this you need to be registered in API services that mentioned bellow and create .env file and add keys
+	2. npm install - wait untill all packages will be installed
+	3. npm start - enjoy weather application
 
 Api for weather data was provided by Weather API https://www.weatherapi.com
 
