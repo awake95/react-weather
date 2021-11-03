@@ -1,5 +1,6 @@
 This is React Weather App.
-![Uploading изображение.png…]()
+
+![alt text](https://github.com/awake95/react-weather/blob/main/screenshot.jpg?raw=true)
 
 Technolies used in the project: 
 
