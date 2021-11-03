@@ -1,4 +1,5 @@
 This is React Weather App.
+![Uploading изображение.png…]()
 
 Technolies used in the project: 
 
